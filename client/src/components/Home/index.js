@@ -51,6 +51,7 @@ const Home = () => (
     </HomeMainSection>
     <Route component={SidebarContainer} />
   </Wrapper>
+  
 );
 
 export default Home;

@@ -10,7 +10,7 @@ const dark = {
   normalText: '#ffffff',
   mutedText: '#b0b8bf',
   border: '#333333',
-  accent: '#33a0ff',
+  accent: '#9a8866',
   pageBackground: '#1b1b1b',
   voteButtonHover: '#383838',
   foreground: '#262626',
